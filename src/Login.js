@@ -42,7 +42,7 @@ const Login = ({ history }) => {
         <button type="submit">Log in</button>
         
       </form>
-      <Link to="/signup" className="link">Página 2</Link>
+      <Link to="/signup" className="link">create User</Link>
 
 
         
